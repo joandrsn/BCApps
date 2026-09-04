@@ -2227,6 +2227,7 @@ dotnet
     }
     assembly("Renci.SshNet")
     {
+        Version = '2026.0.0.1';
         Culture = 'neutral';
         PublicKeyToken = '1cee9f8bde3db106';
 
